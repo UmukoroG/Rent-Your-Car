@@ -17,6 +17,6 @@ ________________________________________________________________________________
 * Install mongodb
 * Create a Cloudinary account to get an API key and secret code
 * Create a Mapbox account to get an API key
-* Create a .env file to store api keys
+* Create a .env file to store api keys and secret code
 * Run mongod in another terminal and node app.js in the terminal with the project.
 * Then go to localhost:3000.
